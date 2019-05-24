@@ -1,0 +1,22 @@
+= v4
+
+. Added eyebrows
+. Made antenna more rounded
+. Added glasses 
+. Fixed minor gaps in hair
+. Converted image to svg
+
+= v3
+
+. Removed fanny pack "[shudder] No Fanny packs for Chet, like, ever. Even if they're 
+hip. Not happening. Not with this Chet."
+. Added jetpack
+. Added breifcase
+
+= v2
+
+. Added a fanny pack
+
+= v1
+
+. Original idea created with Androidify

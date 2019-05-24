@@ -1,5 +1,7 @@
 = Android Jetpack (pronounced Chet-pack) Logo
 
+image::chetpack.svg[Jetpack]
+
 This is a silly project I started after Google I/O 2019. 
 Chet Haase continues year after year to win the Android community over
 and this year was no different. A friend of mine said something like
